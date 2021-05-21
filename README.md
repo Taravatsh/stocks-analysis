@@ -192,7 +192,7 @@ Additionally, the time that was taken for the stock analysis of the year 2018 to
 ![Execution Time of Refactored Script for the Year 2018](Resources/VBA_Challenge_2018.png)
 
 
-Hence, the code refactoring did result in decreasing the execution time of the code.
+Hence, refactoring the code did result in decreasing the execution time of the code.
 
 
 ## Summary
