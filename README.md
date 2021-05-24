@@ -16,11 +16,11 @@ This section of the report focuses on the results achieved in terms of how activ
 
 As it is demonstrated in the figures below, generally the performance of stocks in the year **2017** was much better in terms of the percentage yearly return with an exception to the Sunrun Inc. that has **RUN** as their ticker which increased to **84%** in the year **2018** having the highest return comparing to the remaining stocks. 
 
-**Stock Analysis Output of the Year 2017**
+*Stock Analysis Output of the Year 2017*
 
 ![Stock Analysis of the Year 2017](Resources/Stock_Analysis_2017.png)
 
-**Stock Analysis Output of the Year 2018**
+*Stock Analysis Output of the Year 2018*
 
 ![Stock Analysis of the Year 2018](Resources/Stock_Analysis_2018.png)
 
